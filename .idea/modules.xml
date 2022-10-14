@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minav_Drawer.iml" filepath="$PROJECT_DIR$/.idea/modules/Minav_Drawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Minav_Drawer.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Minav_Drawer.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Minav_Drawer.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Minav_Drawer.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Minav_Drawer.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Minav_Drawer.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Minav_Drawer.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Minav_Drawer.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/midrawer/Minav_Drawer.midrawer.iml" filepath="$PROJECT_DIR$/.idea/modules/midrawer/Minav_Drawer.midrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/midrawer/Minav_Drawer.midrawer.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/midrawer/Minav_Drawer.midrawer.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/midrawer/Minav_Drawer.midrawer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/midrawer/Minav_Drawer.midrawer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/midrawer/Minav_Drawer.midrawer.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/midrawer/Minav_Drawer.midrawer.unitTest.iml" />
+    </modules>
+  </component>
+</project>
